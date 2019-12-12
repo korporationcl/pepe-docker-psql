@@ -16,7 +16,7 @@
    echo "<img src='pepe.png'>";
    echo "</br>";
  } else {
-   echo "Connection has been established.";
+   echo "Connection has been established. pepe is very happy!";
    echo "</br><img src='happy.jpg'>";
  }
 ?>
